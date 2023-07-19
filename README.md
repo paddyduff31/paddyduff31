@@ -37,6 +37,7 @@ I love everything about the start up world, especially how passionate, innovativ
 
 - <a href="http://equip-go.co.uk">EquipGo</a> - Harnessing data to revolutionise equipment management, all your fleets and data on one cloud based platform.
 - <a href="https://networkfit.io">NetworkFit</a> - The all-in-one searchable fitness network, find gyms, classes and Personal trainers for all your fitness needs
+- <a href="https://chardeemacdennis.mmm.page)">Chardee Macdennis</a> - My own little passion project based on my all time favourite show It's Always Sunny in Philadelphia!
 
 ---
 
